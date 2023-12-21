@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/jpfss/GolangTraining/02_package/stringutil"
+	../stringutil
+	../winniepooh
+	//"github.com/jpfss/GolangTraining/02_package/stringutil"
 	//someAlias "github.com/jpfss/GolangTraining/02_package/icomefromalaska"
 )
 
