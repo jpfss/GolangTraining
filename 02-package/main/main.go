@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	../stringutil
-	../winniepooh
+	//这里导入的时候应该采用module名称而不是目录名
+	"pack/stringutil"
+	"pack/winniepooh"
 	//"github.com/jpfss/GolangTraining/02_package/stringutil"
 	//someAlias "github.com/jpfss/GolangTraining/02_package/icomefromalaska"
 )
